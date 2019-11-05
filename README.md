@@ -4,3 +4,4 @@ Implementing a Tequila Tour via text messaging using AWS Pinpoint, Dynamodb, SMS
 Don Julio
 Petron
 Jose Cuervo
+Tj Tequila
